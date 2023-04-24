@@ -1,0 +1,12 @@
+C:\Users\Ian\source\repos\MindBoxLibrary\obj\Debug\net7.0\MindBoxLibrary.csproj.AssemblyReference.cache
+C:\Users\Ian\source\repos\MindBoxLibrary\obj\Debug\net7.0\MindBoxLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\source\repos\MindBoxLibrary\obj\Debug\net7.0\MindBoxLibrary.AssemblyInfoInputs.cache
+C:\Users\Ian\source\repos\MindBoxLibrary\obj\Debug\net7.0\MindBoxLibrary.AssemblyInfo.cs
+C:\Users\Ian\source\repos\MindBoxLibrary\obj\Debug\net7.0\MindBoxLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ian\source\repos\MindBoxLibrary\bin\Debug\net7.0\MindBoxLibrary.deps.json
+C:\Users\Ian\source\repos\MindBoxLibrary\bin\Debug\net7.0\MindBoxLibrary.dll
+C:\Users\Ian\source\repos\MindBoxLibrary\bin\Debug\net7.0\MindBoxLibrary.pdb
+C:\Users\Ian\source\repos\MindBoxLibrary\obj\Debug\net7.0\MindBoxLibrary.dll
+C:\Users\Ian\source\repos\MindBoxLibrary\obj\Debug\net7.0\refint\MindBoxLibrary.dll
+C:\Users\Ian\source\repos\MindBoxLibrary\obj\Debug\net7.0\MindBoxLibrary.pdb
+C:\Users\Ian\source\repos\MindBoxLibrary\obj\Debug\net7.0\ref\MindBoxLibrary.dll
