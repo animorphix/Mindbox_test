@@ -1,4 +1,6 @@
-﻿namespace MindBoxLibrary.Shapes
+﻿using MindBoxLibrary.Interfaces;
+
+namespace MindBoxLibrary.Shapes
 {
     public class Circle : IShape
     {
