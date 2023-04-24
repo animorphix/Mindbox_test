@@ -1,11 +1,11 @@
-﻿namespace MindBoxLibrary
+﻿namespace MindBoxLibrary.Shapes
 {
-    public class Circle: IShape
+    public class Circle : IShape
     {
         private double _radius;
         public Circle(double radius)
         {
-            this._radius = radius;
+            _radius = radius;
         }
 
         public double GetArea()

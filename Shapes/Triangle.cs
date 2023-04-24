@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MindBoxLibrary
+namespace MindBoxLibrary.Shapes
 {
-    public class Triangle: IShape
+    public class Triangle : IShape
     {
         private double _a, _b, _c;
 
-        public Triangle (double a, double b, double c)
+        public Triangle(double a, double b, double c)
         {
-            this._a = a;
-            this._b = b;
-            this._c = c;
+            _a = a;
+            _b = b;
+            _c = c;
         }
         public double GetArea()
         {
@@ -24,7 +24,7 @@ namespace MindBoxLibrary
 
         public bool IsRightTriangle()
         {
-            return (_a * _a + _b * _b == _c * _c) || (_a * _a + _c * _c == _b * _b) || (_b * _b + _c * _c == _a * _a);
+            return _a * _a + _b * _b == _c * _c || _a * _a + _c * _c == _b * _b || _b * _b + _c * _c == _a * _a;
         }
     }
 }
