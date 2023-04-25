@@ -1,0 +1,8 @@
+select p.product_name, c.category_name
+from products p left join categories c on p.category_id = c.category_id
+group by
+p.product_name
+, c.category_name
+order by 
+p.product_name
+, c.category_name
